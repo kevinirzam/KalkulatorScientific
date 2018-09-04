@@ -1,4 +1,4 @@
 # KalkulatorScientific
 Aritmatika
 <br>
-(https://github.com/kevinirzam/KalkulatorScientific/blob/master/hasil.PNG)
+![alt_text](https://github.com/kevinirzam/KalkulatorScientific/hasil.PNG)
